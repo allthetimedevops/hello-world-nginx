@@ -1,2 +1,1 @@
-This is a sample and plain text file.
-This is the second line from abc.txt file.
+
